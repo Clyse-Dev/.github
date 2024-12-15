@@ -2,4 +2,4 @@
 
 `CloudyShell` houses repositories.
 
-[CloudyShell](https://cloudyshell.fr) is a digital web design & marketing agency
+[CloudyShell](https://cloudyshell.fr) is a digital web design & marketing agencys
